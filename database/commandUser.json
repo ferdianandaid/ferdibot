@@ -1,0 +1,121 @@
+[
+  {
+    "jid": "6285921165857@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 30
+      },
+      {
+        "nama": "#infobot",
+        "count": 6
+      },
+      {
+        "nama": "#daftar",
+        "count": 5
+      },
+      {
+        "nama": "#dashboard",
+        "count": 5
+      },
+      {
+        "nama": "#setfooter",
+        "count": 2
+      },
+      {
+        "nama": "#mediafire",
+        "count": 1
+      },
+      {
+        "nama": "#donasi",
+        "count": 1
+      },
+      {
+        "nama": "#sourcecode",
+        "count": 2
+      },
+      {
+        "nama": "#ytmp4",
+        "count": 1
+      },
+      {
+        "nama": "#tiktokaudio",
+        "count": 1
+      },
+      {
+        "nama": "#exif",
+        "count": 1
+      },
+      {
+        "nama": "#toimg",
+        "count": 1
+      },
+      {
+        "nama": "#tovideo",
+        "count": 1
+      },
+      {
+        "nama": "#sticker",
+        "count": 1
+      },
+      {
+        "nama": "#sendsession",
+        "count": 1
+      },
+      {
+        "nama": "#tiktokvideo",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "jid": "6285859443304@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#daftar",
+        "count": 3
+      },
+      {
+        "nama": "#menu",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "jid": "6282373797559@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#daftar",
+        "count": 1
+      },
+      {
+        "nama": "#menu",
+        "count": 9
+      },
+      {
+        "nama": "#sourcecode",
+        "count": 1
+      },
+      {
+        "nama": "#donasi",
+        "count": 1
+      },
+      {
+        "nama": "#infobot",
+        "count": 2
+      },
+      {
+        "nama": "#exif",
+        "count": 5
+      },
+      {
+        "nama": "#sticker",
+        "count": 4
+      },
+      {
+        "nama": "#setthumb",
+        "count": 1
+      }
+    ]
+  }
+]
