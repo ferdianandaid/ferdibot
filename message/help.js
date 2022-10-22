@@ -19,14 +19,14 @@ exports.allmenu = (sender, prefix, pushname, ucapanWaktu, botName, seri, tanggal
 	return `*── 「 ${botName} 」 ──*
 	
 *INFO*
-*•* Library   : Baileys-MD
-*•* Time      : ${jam} WIB
-*•* Date      : ${tanggal}
-*•* Terdaftar : ${loginnya.length}
-
-*INFO USER*
-Halo, {ucapanWaktu} 👋
-*•* Nama : {pushname}
+*•* Halo, ${ucapanWaktu} 👋
+*•* Nama : ${pushname}
+*•* Nomor : ${sender}
+*•* Kode Seri : ${seri}
+*•* Prefix Bot : [ ${prefix} ]
+*•* Time : ${jam} WIB
+*•* Date : ${tanggal}
+*•* Terdaftar : ${loginnya.length}}
 
 *MAIN MENU*
 *•* ${prefix}menu
